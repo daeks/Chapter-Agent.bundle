@@ -1,0 +1,18 @@
+[
+  {
+    "id": "input",
+    "label": "Parse output from ",
+    "type": "enum",
+    "values": [
+      "edl",
+      "dvrmstb"
+    ],
+    "default": "edl"
+  },
+  {
+    "id": "commercial",
+    "label": "Thread Chapters as Commerical",
+    "type": "bool",
+    "default": "true"
+  }
+]
