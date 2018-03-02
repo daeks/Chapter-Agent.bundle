@@ -4,6 +4,8 @@
 <dict>
   <key>CFBundleIdentifier</key>
   <string>com.plexapp.agents.chapter</string>
+  <key>PlexAgentAttributionText</key>
+  <string>This is a Metadata Agent for parsing EDL files and add its content as chapters to PLEX. By default EDL files are read as commerical comskip generated files. This let the agent automatically generate dummy chapters between each found commerical.&lt;br/&gt;&lt;br/&gt;&lt;a href=&quot;http://forums.plex.tv/discussion/257650/rel-chapter-metadata-agent&quot;&gt;Plex Forum Support&lt;/a&gt;</string>
   <key>PlexFrameworkVersion</key>
   <string>2</string>
   <key>PlexPluginClass</key>
